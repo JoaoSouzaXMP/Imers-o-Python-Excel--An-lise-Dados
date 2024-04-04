@@ -1,0 +1,9 @@
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+python -m pip install pandas
+python -m pip install plotly
+python -m pip install openpyxl
+python -m pip install nbformat
+python -m pip install mplfinance
+python -m pip install yfinance
+python -m pip install prophet
